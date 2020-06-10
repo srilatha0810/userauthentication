@@ -1,1 +1,1 @@
-# userauthentication/login system using Django
+# usercreation/loginsystem/resettingpassword using Django
